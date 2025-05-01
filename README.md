@@ -5,7 +5,6 @@
 ---
 
 ## 📫 Contact
-- **Phone:** +972 59-512-6144
 - **Email:** osama54arra@gmail.com
 - **LinkedIn:** [linkedin.com/in/osama54arra](https://linkedin.com/in/osama54arra)
 
