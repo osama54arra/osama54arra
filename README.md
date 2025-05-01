@@ -7,8 +7,6 @@
 ## 📫 Contact
 - **Phone:** +972 59-512-6144
 - **Email:** osama54arra@gmail.com
-- **Location:** Aqqaba, Tubas, Palestine
-- **GitHub:** [github.com/osama54arra](https://github.com/osama54arra)
 - **LinkedIn:** [linkedin.com/in/osama54arra](https://linkedin.com/in/osama54arra)
 
 ---
@@ -54,15 +52,3 @@ Motivated and detail-oriented Computer Science graduate with solid experience in
 **Core Concepts:** OOP, Data Structures, Algorithms  
 **Focus Areas:** AI Fundamentals, Computer Vision, Game Development
 
----
-
-## 🌍 Languages
-- **Arabic:** Native  
-- **English:** Intermediate to Advanced
-
----
-
-## 🧾 References
-**Sanad Malaysha** – Faculty Lecturer, AAUP  
-📞 +972 59-455-8090  
-📧 sanad.malaysha@aaup.edu
